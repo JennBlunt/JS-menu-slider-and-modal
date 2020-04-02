@@ -2,7 +2,7 @@
 #### Modal & Menu Slider
 
 Simple landing page with sliding menu and modal. 
-This is the first modal Iv'e attempted!
+This is the first modal I've attempted!
 
 #### Project Specifications
 
